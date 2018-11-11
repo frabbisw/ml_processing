@@ -1,0 +1,41 @@
+linear regression
+=================
+rss = 25.533277
+mean squared error=0.003911347583020944
+mean absolute error=0.044734111636442295
+variance=0.5872819449613165
+
+random forest
+=============
+rss = 30.133068257979783
+mean squared error=0.00461597246598955
+mean absolute error=0.04718807836985489
+variance=0.5053530646958566
+
+p_values
+========
+const                 1.477625e-253
+wealth                 7.416742e-02
+age                    0.000000e+00
+age_when_married      4.162285e-152
+school                 1.474900e-07
+class                  3.898413e-55
+working                1.614695e-24
+tv                     7.408109e-09
+asha                   3.915153e-02
+want_child             0.000000e+00
+method                 8.391247e-27
+died                   9.907732e-01
+first_child_gender     3.490844e-23
+children_away         6.164317e-134
+boys_died              9.907958e-01
+girls_died             9.907960e-01
+domain_1              7.983784e-191
+domain_2               4.024018e-99
+domain_3              1.977028e-110
+born_place_1.0         6.313785e-15
+born_place_2.0         1.742093e-10
+born_place_3.0         1.405358e-03
+born_place_4.0         1.164343e-25
+born_place_9.0         5.438520e-03
+

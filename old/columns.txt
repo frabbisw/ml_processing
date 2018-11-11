@@ -1,0 +1,30 @@
+#Domain                                         QHDOMAIN
+#Division                                       QHDIVISION
+
+#Current age of respondent                      Q103
+#Ever attended school/Madrasha                  Q114
+
+#Highest class at that level                    Q117
+
+#Currently working                              Q118
+
+
+#Usually reads paper or magazine                Q123
+
+#Watch TV                                       Q127
+#grameen bank									Q129A
+#Mother's Club                                  Q129F
+#ASHA                                           Q129D
+
+#Sons or daughters living with                  Q302
+#Sons or daughters who died                     Q306
+
+#Wealth index quintile                          QHWLTHI
+#All woman factor - wealth index                QWFWEALTH
+
+
+#Total children ever born                       Q308		****
+#Want any more children?                        Q410		****
+#Currently using any method                     Q412		****
+
+**** decision column (not sure yet)

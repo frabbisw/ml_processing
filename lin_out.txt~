@@ -1,0 +1,13 @@
+linear regression
+=================
+rss = 25.533277
+mean squared error=0.003911347583020944
+mean absolute error=0.044734111636442295
+variance=0.5872819449613165
+
+random forest
+=============
+rss = 30.133068257979783
+mean squared error=0.00461597246598955
+mean absolute error=0.04718807836985489
+variance=0.5053530646958566
